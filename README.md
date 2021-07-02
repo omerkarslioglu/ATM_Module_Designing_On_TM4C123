@@ -46,3 +46,5 @@ presented my algorithm, which I explained in detail in the Keypad section.
 This project gave me a lot of experience and knowledge about mcu
 programming and embedded system in general .
 
+ÖMER KARSLIOĞLU
+YOUTUBE CHANNEL : https://www.youtube.com/channel/UCsdqVAlNoFStuYTiiQj0GFw
